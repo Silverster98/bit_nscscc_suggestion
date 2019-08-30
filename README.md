@@ -1,0 +1,2 @@
+# bit_nscscc_suggestion
+对参加龙芯杯的北理工同学的若干建议
