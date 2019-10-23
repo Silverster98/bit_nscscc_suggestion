@@ -3,16 +3,24 @@
 > 为了更好地帮助后来的同学参加龙芯杯，草拟了这份建议，望对后来人有所帮助。
 
 ## 常用链接
+
+### 信息获取及工具
+
 - [龙芯杯官网](http://www.nscscc.org)：大赛官方网站，其中可以获取跟大赛相关信息以及相关资料。
-- [2019 NSCSCC 清华特等奖作品开源代码仓库](https://github.com/trivialmips/)：第三届龙芯杯特等奖参赛作品。
-- [2018 NSCSCC 北理工参赛作品开源代码仓库](https://github.com/bit-mips)：第二届北理工参赛作品
+- [2019 龙芯杯官方培训视频1](https://www.bilibili.com/video/av52675152)
+- [2019 龙芯杯官方培训视频2](https://www.bilibili.com/video/av59738991)
 - [2019 北理工1队参赛队员总结](https://github.com/hongshen424/summary)：第三届北理工1队参赛队员甄淇深和李航的总结。
 - [2019 北理工2队参赛队员总结](https://github.com/Silverster98/bitmips2019/tree/master/summary)：第三届北理工2队参赛队员王赞和范志鹏的总结。
 - [2018 北理工参赛队员总结](https://github.com/bit-mips/about-contest/blob/master/%E7%B3%BB%E7%BB%9F%E8%83%BD%E5%8A%9B%E5%9F%B9%E5%85%BB%E5%A4%A7%E8%B5%9B%E5%8F%82%E8%B5%9B%E5%BF%83%E5%BE%97%E6%80%BB%E7%BB%93.pdf)：第二届北理工参赛队员朱威浦和江学谦的总结。
 - [ProcessOn](https://www.processon.com) ：这是一个可以多人在线协作的作图工具，包括支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图和电路图等。在 CPU 设计的过程中可以用来设计 CPU 架构图。
 - [draw.io](https://www.draw.io)：同 ProcessOn 的一个工具。
-- [2019 龙芯杯官方培训视频1](https://www.bilibili.com/video/av52675152)
-- [2019 龙芯杯官方培训视频2](https://www.bilibili.com/video/av59738991)
+
+### 可参考代码
+
+- [2019 NSCSCC 清华特等奖作品开源代码仓库](https://github.com/trivialmips/)：第三届龙芯杯特等奖参赛作品。
+- [2019 NSCSCC 国科大参赛作品开源代码仓库](https://github.com/nscscc2019ucas/nscscc2019ucas)：第三届国科大参赛作品
+- [2018 NSCSCC 北理工参赛作品开源代码仓库](https://github.com/bit-mips)：第二届北理工参赛作品
+- [性能测试 Trace 对比机制](https://github.com/Silverster98/nscscc_perf_trace)：一种实现性能测试 Trace 对比机制的方式
 
 ## 大赛概况
 
