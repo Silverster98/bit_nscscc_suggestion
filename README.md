@@ -17,10 +17,9 @@
 
 ### 可参考代码
 
+- [BIT MIPS](https://github.com/bit-mips)：北理工历年参赛作品以及相关代码仓库
 - [2019 NSCSCC 清华特等奖作品开源代码仓库](https://github.com/trivialmips/)：第三届龙芯杯特等奖参赛作品。
 - [2019 NSCSCC 国科大参赛作品开源代码仓库](https://github.com/nscscc2019ucas/nscscc2019ucas)：第三届国科大参赛作品
-- [2018 NSCSCC 北理工参赛作品开源代码仓库](https://github.com/bit-mips)：第二届北理工参赛作品
-- [性能测试 Trace 对比机制](https://github.com/Silverster98/nscscc_perf_trace)：一种实现性能测试 Trace 对比机制的方式
 
 ## 大赛概况
 
